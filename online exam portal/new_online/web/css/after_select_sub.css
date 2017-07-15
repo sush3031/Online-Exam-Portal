@@ -1,0 +1,52 @@
+body
+{
+    padding-left: 180px;
+    padding-right: 190px;
+    font-family: cursive;
+    /*background-image: url("../image/dark_mosaic.png");*/
+}
+
+.middle1
+{
+    height: auto;
+    width: 450px;
+    padding-top: 20px;
+    color: white;
+    background-color: #31362b;
+    padding-bottom: 30px;
+    border-radius: 7px;
+    font-size: 25px;
+}
+
+.select
+{
+    width: 200px;
+    height: 40px;
+    border-radius: 7px;
+}
+
+select.select {
+    font-size: 15px;
+    background-color: #f0d3f0;
+    border-style: solid;
+    border-color: #a10010;
+}
+
+
+#sub
+{
+    background-color: darkorange;
+    height: 40px;
+    width: 120px;
+    border-radius: 5px;
+    font-size: 20px;
+    font-family: cursive;
+    color: white;
+}
+
+.select option {
+    /*margin:40px;*/
+    background: rgba(0,0,0,0.3);
+    color:#fff;
+    text-shadow:0 1px 0 rgba(0,0,0,0.4);
+}

@@ -1,0 +1,74 @@
+.whole
+{
+    width: 1200px;;
+    height: 200px;
+    padding-left: 10px;
+    padding-right: 10px;
+/*
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+*/
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.ques
+{
+    padding-left: 50px;
+    font-size: 20px;
+    float: left;
+    height: auto;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    width: 49%;
+/*
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+*/
+}
+
+.pic
+{
+    float: left;
+/*
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+*/
+    height: 165px;
+    width: 45%;
+}
+
+.pic img
+{
+    height: 100%;
+    width: 50%;
+    border-style: solid;
+    border-color: black;
+    border-width: thin;
+}
+
+#inpu
+{
+    clear: both;
+    border-radius: 5px;
+    height: auto;
+    width: auto;
+    padding: 10px;
+    font-size: 20px;
+    background-color: blue;
+    color: white;
+}
+
+.time
+{
+    height: 40px;
+    width: 350px;
+    position: fixed;
+    padding-left: 1000px;
+    /*background-color: aqua;*/
+    font-size: 20px;
+    padding-top: 4px;
+}
